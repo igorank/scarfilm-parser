@@ -1,2 +1,2 @@
-# ScarFilm-Scraper
+# ScarFilm-Parser
 scarfilm.org
