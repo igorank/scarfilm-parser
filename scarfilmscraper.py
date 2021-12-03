@@ -10,9 +10,9 @@ contentTable = soup.find('div', { "class" : "post-body-inner"})
 
 titles = contentTable.find_all("strong")
 
+f = open('movies.txt', 'w', encoding="utf-8")
+
 for i in titles:
-    print(i.get_text())
+    f.write(i.get_text() + '\n')
 
-
-
-
+f.close()
