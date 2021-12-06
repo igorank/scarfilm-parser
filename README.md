@@ -1,5 +1,5 @@
 # ScarFilm-Parser
-A simple script that parses movie titles from scarfilm.org and displays a random movie.
+A simple script that parses movie titles from [scarfilm.org](https://scarfilm.org/) and displays a random movie.
 
 ![output](https://i.imgur.com/UmGrERp.png)
 
